@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenedor{
+    width: 600px;
+    height: 600px;
+    background-color: steelblue;
+    display: flex;
+    flex-direction: column;
+}
+
+.item{
+    height: 90px;
+    width: 90px;
+    line-height: 90px;
+    background-color: #45B649;
+    border: 1px solid #000;
+    text-align: center;
+}
